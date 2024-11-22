@@ -5,7 +5,7 @@ print("Nothing")
 
 print("Everything")
 
-print("Abudulaah vai!!!")
+print("Abudulaah vai achen!!!")
 
 print("bhai ssh key diya abar clone korchi")
 
